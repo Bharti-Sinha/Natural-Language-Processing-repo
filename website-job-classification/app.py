@@ -1,8 +1,3 @@
-# please check the mail to find the FastText and LR models 
-# which should be loaded into this folder before running the code 
-# my email id is s3861921@student.rmit.edu.au
-
-
 from flask import Flask, render_template, request, redirect, session
 from gensim.models.fasttext import FastText
 import pandas as pd
