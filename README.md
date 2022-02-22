@@ -2,37 +2,37 @@
 
 Libraries used:
 
-pandas
-re
-numpy
-nltk
-itertools
-ngrams
-random
-csv
-os
-sklearn.datasets
-RegexpTokenizer
-nltk.tokenize, sent_tokenize
-sklearn.datasets, load_files
-random
-nltk.probability
-matplotlib
-sklearn
-gensim
-seaborn
-scipy
-os
-sklearn.model_selection
-gensim.models.fasttext
-sklearn.feature_extraction.text
-gensim.downloader
-sklearn.linear_model
-sklearn.metrics
-scipy.sparse
-gensim.corpora
-gensim.models.tfidfmodel
-gensim.matutils
+- pandas
+- re
+- numpy
+- nltk
+- itertools
+- ngrams
+- random
+- csv
+- os
+- sklearn.datasets
+- RegexpTokenizer
+- nltk.tokenize, sent_tokenize
+- sklearn.datasets, load_files
+- random
+- nltk.probability
+- matplotlib
+- sklearn
+- gensim
+- seaborn
+- scipy
+- os
+- sklearn.model_selection
+- gensim.models.fasttext
+- sklearn.feature_extraction.text
+- gensim.downloader
+- sklearn.linear_model
+- sklearn.metrics
+- scipy.sparse
+- gensim.corpora
+- gensim.models.tfidfmodel
+- gensim.matutils
 
 
 1. Basic_Text_Processing.ipynb
