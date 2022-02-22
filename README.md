@@ -57,3 +57,4 @@ Generate feature representations of job description to predict (classify) jobs i
 
 Develop a job hunting website based on the Python Flask web development framework. The developed website will allow job hunters to browse existing job advertisements, as well as employers to create new job advertisements. The website will adopt one of the machine learning models that we built in Document_Modeling files, for the purpose of auto classifying categories for new job advertisement entries. Such functionality helps to reduce human data entry error, increase the job exposure to relevant candidates, and also improve the user experience of the job hunting site.
  
+Please download all the files in this folder and open app.py to host the website in chrome. 
